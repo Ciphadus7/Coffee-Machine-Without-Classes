@@ -1,8 +1,6 @@
 from replit import clear
 import sys
 
-
-off = False
 enoughWater = bool
 enoughCoffee = bool
 enoughMilk = bool
